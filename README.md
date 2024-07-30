@@ -9,7 +9,8 @@ A Streamlit application for translating text into various languages using `googl
 - Apply additional processing to the translated text using the custom `pathway` module.
 
  ## Demo
- 
+ [streamlit-app-2024-07-30-12-07-50.webm](https://github.com/user-attachments/assets/69aff1dd-6c4b-46c9-a818-05761f8f9733)
+
 
 ## Prerequisites
 
@@ -23,21 +24,21 @@ A Streamlit application for translating text into various languages using `googl
    git clone https://github.com/yourusername/language-translation-app.git
    cd language-translation-app
 
-2.Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
 
 On Windows:
-```bash
-python -m venv venv
-.\venv\Scripts\activate
+  ```bash
+   python -m venv venv
+   .\venv\Scripts\activate
 ```
 On macOS/Linux:
-```bash
-python -m venv venv
-source venv/bin/activate
+  ```bash
+   python -m venv venv
+   source venv/bin/activate
 ```
-3.Install the dependencies:
-```bash
-pip install -r requirements.txt
+3. **Install the dependencies:**
+  ```bash
+   pip install -r requirements.txt
 ```
 ## Running the Application
 Run the Streamlit app with:
