@@ -1,2 +1,4 @@
-googletrans==3.1.0a0
 streamlit==1.26.0
+numpy==1.26.4
+pyarrow==16.1.0
+requests>=2.32.0,<3
